@@ -1,0 +1,24 @@
+{
+  "name": "umi-plugin-async-bootstrap",
+  "version": "0.0.1",
+  "description": "支持umi异步启动",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "father-build"
+  },
+  "keywords": [],
+  "repository": "https://github.com/rurounibatousai/umi-plugin-async-bootstrap.git",
+  "authors": {
+    "name": "rurounikenshin",
+    "email": "half-mooncrack@live.cn"
+  },
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "devDependencies": {
+    "@umijs/types": "^4.0.0",
+    "father-build": "^1.20.0"
+  }
+}
